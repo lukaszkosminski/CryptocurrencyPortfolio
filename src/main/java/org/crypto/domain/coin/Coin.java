@@ -1,9 +1,16 @@
 package org.crypto.domain.coin;
 
 public class Coin {
-    CoinName coinName;
+    String coinName;
 
-    public Coin(CoinName coinName) {
+    public Coin(String coinName) {
         this.coinName = coinName;
+    }
+
+    @Override
+    public String toString() {
+        return "Coin{" +
+                "coinName='" + coinName + '\'' +
+                '}';
     }
 }
