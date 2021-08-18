@@ -4,15 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67d1dd4e-60bb-44e7-90fd-efc73dc7588b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/transactions.json" afterDir="false" />
+    <list default="true" id="56e01908-e026-44c1-b12f-fb75e289ada1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/CryptocurrencyPortfolio/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/crypto/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/consoleApp/ConsoleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/crypto/consoleApp/ConsoleApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/coin/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/crypto/domain/coin/Coin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/TransactionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/TransactionRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/TransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/TransactionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/consoleApp/ConsoleApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/coin/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/coin/CoinName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/TransactionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/transaction/TransactionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/crypto/domain/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/crypto/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/consoleApp/ConsoleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/coin/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/coin/CoinName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/transaction/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/transaction/TransactionRepository$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/transaction/TransactionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/transaction/TransactionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/transaction/TransactionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/crypto/domain/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/crypto/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transactions.json" beforeDir="false" afterPath="$PROJECT_DIR$/transactions.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +48,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -30,7 +55,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1wdgGgqJWxDbPosv2DyN0aUFqEZ" />
+  <component name="ProjectId" id="1wtriRvl3osKHstICsQRselyG7K" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -42,22 +67,29 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="org.crypto.domain.transaction" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn deploy" />
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.crypto.App" />
+    <configuration name="CryptocurrencyPortfolioApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jbr-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.CryptocurrencyPortfolio.CryptocurrencyPortfolioApplication" />
       <module name="CryptocurrencyPortfolio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.crypto.*" />
+          <option name="PATTERN" value="com.example.CryptocurrencyPortfolio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,34 +97,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="67d1dd4e-60bb-44e7-90fd-efc73dc7588b" name="Changes" comment="" />
-      <created>1628793787227</created>
+      <changelist id="56e01908-e026-44c1-b12f-fb75e289ada1" name="Changes" comment="" />
+      <created>1629288853673</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1628793787227</updated>
+      <updated>1629288853673</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
